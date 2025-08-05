@@ -18,7 +18,7 @@
 
 <h3>住所：大阪市天王寺区国分町13-20</h3>
 <div class="image-gallery">
-            <img src="https://imgur.com/tQdpZsU.jpg" alt="ゲストハウス画像 1">
+            <img src="https://imgur.com/FnXLVG1.jpeg" alt="ゲストハウス画像 1">
 <footer>    
 <h5>連絡先： +81 7021001016    |    メール: 2629842378@qq.com</h5>
 <footer>
